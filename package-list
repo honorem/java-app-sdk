@@ -1,0 +1,12 @@
+org.thethingsnetwork.account
+org.thethingsnetwork.account.async
+org.thethingsnetwork.account.auth.grant
+org.thethingsnetwork.account.auth.token
+org.thethingsnetwork.account.common
+org.thethingsnetwork.account.sync
+org.thethingsnetwork.data.amqp
+org.thethingsnetwork.data.common
+org.thethingsnetwork.data.common.events
+org.thethingsnetwork.data.mqtt
+org.thethingsnetwork.management
+org.thethingsnetwork.management.async
